@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 07 Jun 2026 21:13:31 at https://www.everising.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -%X "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" -%X "Referer: https://uchen.com.cn" https://www.everising.com/ -O1 "E:\My Web Sites\myfistproject" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:14:58	Error: 	"Not Found" (404) at link https://www.everising.com/images/app_icon/images/app_icon/apple-touch-icon-114x114.png (from https://www.everising.com/)
+21:20:40	Error: 	"Not Found" (404) at link https://www.everising.com/fonts/bootstrap/glyphicons-halflings-regular.eot (from https://www.everising.com/css/main.css?v2.2)
+21:20:40	Error: 	"Not Found" (404) at link https://www.everising.com/fonts/bootstrap/glyphicons-halflings-regular.eot? (from https://www.everising.com/css/main.css?v2.2)
+21:20:40	Error: 	"Not Found" (404) at link https://www.everising.com/fonts/bootstrap/glyphicons-halflings-regular.woff2 (from https://www.everising.com/css/main.css?v2.2)
+21:20:40	Error: 	"Not Found" (404) at link https://www.everising.com/fonts/bootstrap/glyphicons-halflings-regular.woff (from https://www.everising.com/css/main.css?v2.2)
+21:20:40	Error: 	"Not Found" (404) at link https://www.everising.com/fonts/bootstrap/glyphicons-halflings-regular.ttf (from https://www.everising.com/css/main.css?v2.2)
+21:20:40	Error: 	"Not Found" (404) at link https://www.everising.com/fonts/bootstrap/glyphicons-halflings-regular.svg (from https://www.everising.com/css/main.css?v2.2)
+22:02:04	Error: 	"Not Found" (404) at link https://www.everising.com/search/products-6.html (from https://www.everising.com/search/index.php?_Page=employee&mode=login&_lang=T)
+22:02:04	Error: 	"Not Found" (404) at link https://www.everising.com/search/ec-530.html (from https://www.everising.com/search/index.php?_Page=employee&mode=login&_lang=T)
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 minutes 34 seconds : 1436 links scanned, 1426 files written (245826225 bytes overall) [230053138 bytes received at 78947 bytes/sec], 21776278 bytes transferred using HTTP compression in 422 files, ratio 21%, 9.5 requests per connection
+(9 errors, 0 warnings, 0 messages)
